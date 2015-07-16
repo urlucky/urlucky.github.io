@@ -12,5 +12,6 @@ categories:
 
 我们会在接下来的两个月中完成拥有图片管理和编辑功能更的WebAPP。
 
-欢迎大家一起学习讨论！
+
+欢迎访问我们的git [URLucky](https://github.com/urlucky)，一起学习讨论！
 
