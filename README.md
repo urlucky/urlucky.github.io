@@ -1,18 +1,9 @@
-# Polar Bear
-An open source minimal theme for Jekyll, ideal for blogging.
+欢迎来到URL-TEAM。
 
-View the demo at http://diezcami.github.io/polar-bear-theme
+这是我们参加 [IFE暑期训练营](https://github.com/baidu-ife/ife/tree/master/2015_summer) 的团队博客。
 
-## Contribute
-Please submit **open issues** for bugs or TBA features that haven't been documented yet! Feel free to submit pull requests for any existing issues.
+我们的团队成员是 [止水](https://github.com/jin5354)、[saintwinkle](https://github.com/saintwinkle) 和 [一辆](http://yiliang.sinaapp.com/)。
 
-## License
-The MIT License (MIT)
+我们会在接下来的两个月中完成拥有图片管理和编辑功能更的WebAPP。
 
-Copyright (c) 2015 Camille Diez
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+欢迎大家一起学习讨论！
