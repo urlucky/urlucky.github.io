@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 我们是 URL 团队。
