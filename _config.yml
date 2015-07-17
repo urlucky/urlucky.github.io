@@ -1,10 +1,9 @@
 # Site settings
 title: URLucky
 email:
-description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
+description: URL-Team 的团队博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://urlucky.github.io/"
+url: "http://urlucky.github.io"
 enconding: utf-8
 
 # Build settings
