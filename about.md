@@ -25,3 +25,9 @@ permalink: /about/
   [![twinkle_avatar](https://avatars3.githubusercontent.com/u/4580163?v=3&s=140)](http://saintwinkle.com)
 
   喜欢折腾，会写点代码。
+
+- [一辆](https://github.com/wangyiliangnet)
+
+  [![yiliang_avatar](https://avatars3.githubusercontent.com/u/5622029?v=3&s=140)](http://yiliang.sinaapp.com)
+
+  做自己喜欢的工作真是太好了。
